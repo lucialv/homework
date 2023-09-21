@@ -226,7 +226,7 @@
 						</h1>
 					</div>
 					<h1 class="text-base font-semibold text-white lg:text-xl">
-						Ara ja tindríem el nostre VirtualBox ben configurat i llest per utilitzar.
+						Ara ja tindríem el nostre VirtualBox ben configurat i llest per simular màquines virtualment.
 					</h1>
 					<img src="/images/AP29-sistema.png" alt="foto" class="mx-auto mt-4 w-[200px] rounded-md md:w-[600px]" />
 				</div>

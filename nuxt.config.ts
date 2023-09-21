@@ -14,7 +14,7 @@ export default defineNuxtConfig({
 	},
 	app: {
 		head: {
-			title: 'Lucía Álvarez',
+			title: 'Blogs Lucía Álvarez',
 			htmlAttrs: { lang: 'en' },
 			link: [
 				{ rel: 'canonical', href: 'https://blog.mishu.dev' },
@@ -40,7 +40,7 @@ export default defineNuxtConfig({
 				{ name: 'theme-color', content: '#C4EEFF' },
 				{
 					name: 'description',
-					content: "Lucía Álvarez's personal website and portfolio"
+					content: "Lucía Álvarez's blogs"
 				},
 				{
 					name: 'viewport',
@@ -68,16 +68,16 @@ export default defineNuxtConfig({
 				{ name: 'shortlink', content: 'https://blog.mishu.dev' },
 				{
 					name: 'subject',
-					content: "Lucía Álvarez's personal website and portfolio"
+					content: "Lucía Álvarez's blogs"
 				},
 				{
 					name: 'summary',
-					content: "Lucía Álvarez's personal website and portfolio."
+					content: "Lucía Álvarez's blogs."
 				},
 				{ name: 'url', content: 'https://blog.mishu.dev' },
 				{
 					property: 'og:description',
-					content: "Lucía Álvarez's personal website and portfolio"
+					content: "Lucía Álvarez's blogs"
 				},
 				{ property: 'og:email', content: 'mishudiscord@gmail.com' },
 				{ property: 'og:locale', content: 'en_US' },
