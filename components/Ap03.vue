@@ -11,7 +11,7 @@
 					</h1>
 				</div>
 				<div class="text-start">
-					<h1 class="text-lg font-bold text-white lg:text-2xl">AP_02_Instal·lació d'Ubuntu</h1>
+					<h1 class="text-lg font-bold text-white lg:text-2xl">AP_03_Instal·lació d'Ubuntu</h1>
 				</div>
 				<hr class="mt-2 h-1 rounded border-0 bg-gradient-to-br from-white to-pink-500 md:w-[700px]" />
 				<div id="instalacio-de-virtualbox">
