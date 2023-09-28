@@ -11,21 +11,21 @@
 					</h1>
 				</div>
 				<div class="text-start">
-					<h1 class="text-lg font-bold text-white lg:text-2xl">AP_02_Instal·lació de Debian</h1>
+					<h1 class="text-lg font-bold text-white lg:text-2xl">AP_02_Instal·lació d'Ubuntu</h1>
 				</div>
 				<hr class="mt-2 h-1 rounded border-0 bg-gradient-to-br from-white to-pink-500 md:w-[700px]" />
 				<div id="instalacio-de-virtualbox">
 					<h1 class="mt-6 bg-gradient-to-r from-sky-300 to-blue-500 bg-clip-text text-lg font-bold text-transparent lg:text-2xl">
-						1 - Instalació de la ISO de Debian
+						1 - Instalació de la ISO de Ubuntu
 					</h1>
 					<hr class="my-2 h-1 rounded border-0 bg-gradient-to-br from-sky-300 to-blue-500" />
 					<h1 class="text-base font-semibold text-white lg:text-xl">
-						Primer hem d'anar a la pàgina de Debian per descarregar l'ISO, per això donar-li aquest botó per anar directament a la pàgina
+						Primer hem d'anar a la pàgina de Ubuntu per descarregar l'ISO, per això donar-li aquest botó per anar directament a la pàgina
 						web de la descàrrega.
 					</h1>
 					<div>
 						<a
-							href="https://www.debian.org/CD/http-ftp/"
+							href="https://www.Ubuntu.org/CD/http-ftp/"
 							target="_blank"
 							class="group mb-2 mr-2 mt-2 inline-flex items-center justify-center overflow-hidden rounded-lg bg-gradient-to-br from-purple-600 to-blue-500 p-0.5 text-center text-sm font-medium text-gray-900 hover:text-white focus:outline-none focus:ring-4 focus:ring-blue-300 group-hover:from-purple-600 group-hover:to-blue-500 dark:text-white dark:focus:ring-blue-800"
 						>
@@ -66,20 +66,20 @@
 					<h1 class="mt-2 text-base font-semibold text-white lg:text-xl">Se'ns obrirà aquesta pestanya:"</h1>
 					<img src="/images/AP05-2sistema.png" alt="foto" class="mx-auto mt-4 w-[200px] rounded-md md:w-[600px]" />
 					<h1 class="mt-2 text-base font-semibold text-white lg:text-xl">
-						Posem de nom a la màquina "Debian", seleccionem l'iso que acabem de descarregar i finalment marquem l'opció de "Skip
+						Posem de nom a la màquina "Ubuntu", seleccionem l'iso que acabem de descarregar i finalment marquem l'opció de "Skip
 						Unattended Installation" per fer una bona instal·lació.
 					</h1>
 					<img src="/images/AP06-2sistema.png" alt="foto" class="mx-auto mt-4 w-[200px] rounded-md md:w-[600px]" />
 					<h1 class="mt-2 text-base font-semibold text-white lg:text-xl">I donem a "Next"</h1>
 					<img src="/images/AP07-2sistema.png" alt="foto" class="mx-auto mt-4 w-[200px] rounded-md md:w-[600px]" />
 					<h1 class="mt-2 text-base font-semibold text-white lg:text-xl">
-						Ara ens preguntarà quanta RAM i quants processadors li posarem a aquesta màquina, segons diu la pàgina de Debian, amb 1GB de
+						Ara ens preguntarà quanta RAM i quants processadors li posarem a aquesta màquina, segons diu la pàgina de Ubuntu, amb 1GB de
 						RAM i 1 processador ja vas bé, però posaré 4GB de RAM i 2 processadors perquè vagi tot millor. Una vegada acabat de possar tot
 						el que volem li donem a "Next"
 					</h1>
 					<img src="/images/AP08-2sistema.png" alt="foto" class="mx-auto mt-4 w-[200px] rounded-md md:w-[600px]" />
 					<h1 class="mt-2 text-base font-semibold text-white lg:text-xl">
-						Ara ens pregunta quant d'espai donarem a la màquina, a Debian amb 25GB està bé però posarem 30GB per si de cas. Un cop posats
+						Ara ens pregunta quant d'espai donarem a la màquina, a Ubuntu amb 25GB està bé però posarem 30GB per si de cas. Un cop posats
 						li donem a "Next"
 					</h1>
 					<img src="/images/AP09-2sistema.png" alt="foto" class="mx-auto mt-4 w-[200px] rounded-md md:w-[600px]" />
@@ -93,7 +93,7 @@
 					</h1>
 					<img src="/images/AP11-2sistema.png" alt="foto" class="mx-auto mt-4 w-[200px] rounded-md md:w-[600px]" />
 					<h1 class="mt-2 text-base font-semibold text-white lg:text-xl">
-						Ara que se'ns ha obert la màquina el primer és que ens surt és que hem d'instal·lar Debian, per això li donarem a Install
+						Ara que se'ns ha obert la màquina el primer és que ens surt és que hem d'instal·lar Ubuntu, per això li donarem a Install
 						(Usant les fletxes per moure's i Enter per acceptar)
 					</h1>
 					<img src="/images/AP12-2sistema.png" alt="foto" class="mx-auto mt-4 w-[200px] rounded-md md:w-[600px]" />
@@ -110,7 +110,7 @@
 						Ens pregunta quina distribució del teclat volem, donem a la que ens vagi millor i donem a Enter.
 					</h1>
 					<img src="/images/AP15-2sistema.png" alt="foto" class="mx-auto mt-4 w-[200px] rounded-md md:w-[600px]" />
-					<h1 class="mt-2 text-base font-semibold text-white lg:text-xl">Ara comença a instal·lar-se el Debian.</h1>
+					<h1 class="mt-2 text-base font-semibold text-white lg:text-xl">Ara comença a instal·lar-se el Ubuntu.</h1>
 					<img src="/images/AP16-2sistema.png" alt="foto" class="mx-auto mt-4 w-[200px] rounded-md md:w-[600px]" />
 					<h1 class="mt-2 text-base font-semibold text-white lg:text-xl">
 						Un cop acabada la instal·lació ens pregunta quin nom volem posar a la Màquina, en el meu cas li posaré el meu nom, però tu
@@ -175,12 +175,12 @@
 					<h1 class="mt-2 text-base font-semibold text-white lg:text-xl">Esperem que s'instal·lin els programes.</h1>
 					<img src="/images/AP33-2sistema.png" alt="foto" class="mx-auto mt-4 w-[200px] rounded-md md:w-[600px]" />
 					<h1 class="mt-2 text-base font-semibold text-white lg:text-xl">
-						Ara ens pregunta si volem enviar estadistiques als desenvolupadors per millorar Debian, cal pensar que és codi obert i darrere
+						Ara ens pregunta si volem enviar estadistiques als desenvolupadors per millorar Ubuntu, cal pensar que és codi obert i darrere
 						d'això només hi ha desenvolupadors independents, li donem que sí si vols col·laborar i si no doncs dónes que no.
 					</h1>
 					<img src="/images/AP34-2sistema.png" alt="foto" class="mx-auto mt-4 w-[200px] rounded-md md:w-[600px]" />
 					<h1 class="mt-2 text-base font-semibold text-white lg:text-xl">
-						Ara ens pregunta que entern volem Debian, la més famosa és el GNOME així que seleccionaré aquesta però pots seleccionar la que
+						Ara ens pregunta que entern volem Ubuntu, la més famosa és el GNOME així que seleccionaré aquesta però pots seleccionar la que
 						vulguis.
 					</h1>
 					<img src="/images/AP35-2sistema.png" alt="foto" class="mx-auto mt-4 w-[200px] rounded-md md:w-[600px]" />
@@ -199,7 +199,7 @@
 					</h1>
 					<img src="/images/AP40-2sistema.png" alt="foto" class="mx-auto mt-4 w-[200px] rounded-md md:w-[600px]" />
 					<h1 class="mt-2 text-base font-semibold text-white lg:text-xl">
-						Un cop reiniciada la màquina ja tindríem el sistema de debian llest per utilitzar, seleccionem el nostre usuari i posem la
+						Un cop reiniciada la màquina ja tindríem el sistema de Ubuntu llest per utilitzar, seleccionem el nostre usuari i posem la
 						contrasenya i entraríem al sistema.
 					</h1>
 					<img src="/images/AP41-2sistema.png" alt="foto" class="mx-auto mt-4 w-[200px] rounded-md md:w-[600px]" />
@@ -217,7 +217,7 @@
 						Ara ens pregunta si volem posar un compte, en el meu cas us donaré a ometre perquè no vull posar cap compte.
 					</h1>
 					<img src="/images/AP45-2sistema.png" alt="foto" class="mx-auto mt-4 w-[200px] rounded-md md:w-[600px]" />
-					<h1 class="mt-2 text-base font-semibold text-white lg:text-xl">I ja tindríem instal·lat Debian.</h1>
+					<h1 class="mt-2 text-base font-semibold text-white lg:text-xl">I ja tindríem instal·lat Ubuntu.</h1>
 					<img src="/images/AP46-2sistema.png" alt="foto" class="mx-auto mt-4 w-[200px] rounded-md md:w-[600px]" />
 					<hr class="mx-auto my-32 h-1 w-48 rounded border-0 dark:bg-gray-500" />
 				</div>
@@ -247,7 +247,7 @@
 					<h1 class="text-base font-semibold text-white lg:text-xl">Esperem a que s'instal·li.</h1>
 					<img src="/images/AP52-2sistema.png" alt="foto" class="mx-auto mt-4 w-[200px] rounded-md md:w-[600px]" />
 					<h1 class="text-base font-semibold text-white lg:text-xl">
-						Un cop acabada la descàrrega ja tindríem el nostre Debian instal·lat amb Guest Addition i llest per fer el que vulguem amb
+						Un cop acabada la descàrrega ja tindríem el nostre Ubuntu instal·lat amb Guest Addition i llest per fer el que vulguem amb
 						ell.
 					</h1>
 					<img src="/images/AP53-2sistema.png" alt="foto" class="mx-auto mt-4 w-[200px] rounded-md md:w-[600px]" />
