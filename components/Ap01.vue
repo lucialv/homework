@@ -11,21 +11,21 @@
 					</h1>
 				</div>
 				<div class="text-start">
-					<h1 class="text-lg font-bold text-white lg:text-2xl">AP_02_Instal·lació de Debian</h1>
+					<h1 class="text-lg font-bold text-white lg:text-2xl">AP_01_Instal·lació de VirtualBox i configuració de VirtualBox</h1>
 				</div>
 				<hr class="mt-2 h-1 rounded border-0 bg-gradient-to-br from-white to-pink-500 md:w-[700px]" />
 				<div id="instalacio-de-virtualbox">
 					<h1 class="mt-6 bg-gradient-to-r from-sky-300 to-blue-500 bg-clip-text text-lg font-bold text-transparent lg:text-2xl">
-						1 - Instalació de la ISO de Debian
+						1 - Instalació del VirtualBox
 					</h1>
-					<hr class="my-2 h-1 rounded border-0 bg-gradient-to-br from-sky-300 to-blue-500" />
+					<hr class="my-2 h-1 w-[240px] rounded border-0 bg-gradient-to-br from-sky-300 to-blue-500 md:w-[245px] lg:w-[325px]" />
 					<h1 class="text-base font-semibold text-white lg:text-xl">
-						Primer hem d'anar a la pàgina de Debian per descarregar l'ISO, per això donar-li aquest botó per anar directament a la pàgina
-						web de la descàrrega.
+						Primer hem d'anar a la pàgina de virtualbox per descarregar l'executable de l'instal·lador, per això donar-li aquest botó per
+						anar directament a la pàgina web de la descàrrega.
 					</h1>
 					<div>
 						<a
-							href="https://www.debian.org/CD/http-ftp/"
+							href="https://www.virtualbox.org/wiki/Downloads"
 							target="_blank"
 							class="group mb-2 mr-2 mt-2 inline-flex items-center justify-center overflow-hidden rounded-lg bg-gradient-to-br from-purple-600 to-blue-500 p-0.5 text-center text-sm font-medium text-gray-900 hover:text-white focus:outline-none focus:ring-4 focus:ring-blue-300 group-hover:from-purple-600 group-hover:to-blue-500 dark:text-white dark:focus:ring-blue-800"
 						>
@@ -51,9 +51,10 @@
 							</span>
 						</a>
 					</div>
-					<img src="/images/AP01-2sistema.png" alt="foto" class="mx-auto mt-4 w-[200px] rounded-md md:w-[600px]" />
+					<img src="/images/AP01-sistema.png" alt="foto" class="mx-auto mt-4 w-[200px] rounded-md md:w-[600px]" />
 					<h1 class="mt-2 text-base font-semibold text-white lg:text-xl">
-						Ara que ja estem a la pàgina d'instal·lació hem d'escollir la nostra instal·lació preferida. (La més comuna es la amd64)
+						Ara que ja estem a la pàgina d'instal·lació hem d'escollir la nostra instal·lació preferida, si ets a windows o si estàs a
+						linux agafaràs una o altra. Un cop escollida començarà la descàrrega de l'instal·lador executable.
 					</h1>
 					<img src="/images/AP02-sistema.png" alt="foto" class="mx-auto mt-4 w-[200px] rounded-md md:w-[600px]" />
 					<h1 class="mt-2 text-base font-semibold text-white lg:text-xl">
